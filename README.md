@@ -14,7 +14,7 @@
 
 最初想在 GitHub 上寻找现成的 Q 群成员查重工具，未找到合适的，于是自己写了一个。
 
-相关查询功能依靠 GitHub 上的 [NapCat](https://github.com/NapNeko/NapCatQQ) 项目，只需下载编译好的文件解压即可，**仅作为启动依赖，无需改动任何 NapCat 的源文件**。
+相关查询功能依靠 GitHub 上的 [NapCat](https://github.com/NapNeko/NapCatQQ) 项目，只需下载编译好的文件解压即可，仅作为启动依赖，无需改动任何 NapCat 的源文件。
 
 ## NapCat 版本选择
 
