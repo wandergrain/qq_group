@@ -63,3 +63,5 @@
 ## 实操
 <img width="1115" height="628" alt="a2" src="https://github.com/user-attachments/assets/02d3c850-baea-444f-97dc-e3cd34118b88" />
 <img width="1115" height="628" alt="a1" src="https://github.com/user-attachments/assets/223ee84c-d615-42b4-88e9-4b7d3ca6d11b" />
+## 免责声明
+本工具仅供学习与交流使用，请遵守相关软件的许可协议及相关法律法规，合理控制查询频率，因使用本工具产生的一切后果由使用者自行承担。
