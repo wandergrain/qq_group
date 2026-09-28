@@ -61,5 +61,5 @@
 查询结束后会自动导出 CSV / TXT 名单。
 
 ## 实操
-
-<!-- 可在此处插入操作截图或 GIF -->
+<img width="1115" height="628" alt="a2" src="https://github.com/user-attachments/assets/02d3c850-baea-444f-97dc-e3cd34118b88" />
+<img width="1115" height="628" alt="a1" src="https://github.com/user-attachments/assets/223ee84c-d615-42b4-88e9-4b7d3ca6d11b" />
