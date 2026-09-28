@@ -1,0 +1,11 @@
+# 查询输出文件
+duplicated_members_*.csv
+duplicated_members_*.txt
+qq_lookup_*.csv
+qq_lookup_*.txt
+group_rank_*.csv
+group_rank_*.txt
+
+# NapCat 本体与压缩包
+NapCat*/
+NapCat*.zip
